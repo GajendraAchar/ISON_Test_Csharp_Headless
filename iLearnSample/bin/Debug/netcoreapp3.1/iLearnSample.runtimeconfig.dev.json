@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Whynew.in\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Whynew.in\\.nuget\\packages"
+    ]
+  }
+}
