@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bI6tF4iLjbz4az3C2k7wZnIGdKA0By3d5jNuWpoUzaz/5M72JCsSA/Gh5fc+Hx7WOakfm95eeVgQa5wETgoOPg==",
+  "dgSpecHash": "TinWnBAIJ2xO0SrSYVmPt7VpFM2hIK1dBVvJSAgTo31QdhBFsHAQimBEpOK6ZWJRGz9ZXRytelX0TzpYIZB/Sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Whynew.in\\source\\repos\\iLearnSample\\iLearnSample\\iLearnSample.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Whynew.in\\.nuget\\packages\\nunit.consolerunner\\3.12.0\\nunit.consolerunner.3.12.0.nupkg.sha512",
     "C:\\Users\\Whynew.in\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\Whynew.in\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Whynew.in\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
     "C:\\Users\\Whynew.in\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\Whynew.in\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\Whynew.in\\.nuget\\packages\\selenium.webdriver.chromedriver\\94.0.4606.6100\\selenium.webdriver.chromedriver.94.0.4606.6100.nupkg.sha512",
